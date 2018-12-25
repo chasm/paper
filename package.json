@@ -1,0 +1,7 @@
+{
+  "name": "paper",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.8.0"
+  }
+}
